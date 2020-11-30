@@ -7,8 +7,8 @@ Console-based application of My STudent Automated Registration System (MySTARS)
 
 Team Members:
 
-Atul Acharya
-Ankitha Anil
+Atul Acharya\n
+Ankitha Anil\n
 Nisha Ramasubramaniam
 Parthan Muralidharan
 Srishti Arora
