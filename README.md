@@ -7,9 +7,14 @@ Console-based application of My STudent Automated Registration System (MySTARS)
 
 Team Members:
 
-Atul Acharya\n
-Ankitha Anil\n
+Atul Acharya
+
+Ankitha Anil
+
 Nisha Ramasubramaniam
+
 Parthan Muralidharan
+
 Srishti Arora
+
 Flow of program and test cases: https://www.youtube.com/watch?v=FIxZXulYwXo
